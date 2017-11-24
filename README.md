@@ -4,6 +4,9 @@ A beautiful Dialog which appears when you have lost your Internet connection.
 
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-No%20Internet%20Dialog-yellow.svg?style=flat-square)](https://android-arsenal.com/details/1/6493) [![API](https://img.shields.io/badge/API-14%2B-yellow.svg?style=flat-square)](https://android-arsenal.com/api?level=14)
 
+This is work is is inspired from the work of Ramakrishna V. in Dribbble.
+
+(https://dribbble.com/shots/2887886-No-internet-connection-GIF)
 ## Setup
 
 #### Gradle:
